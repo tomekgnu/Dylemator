@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <dilemma type="nonmoral">
+        <name>Lek zamienny</name>
+        <description>Boli Cię głowa. Idziesz do apteki z zamiarem kupienia konkretnego, firmowego leku przeciwbólowego. Na miejscu dowiadujesz się, że nie ma go w aptece.</description>
+        <problem><![CDATA[Farmaceuta, którego znasz długi czas i któremu ufasz, proponuje Ci zakup leku zamiennego. Zachęca Cię do kupna, używając słów: „lek jest dokładnie taki sam”.]]></problem>
+        <question>Czy  w tej sytuacji zdecydujesz się na kupienie zamiennika, aby uniknąć dalszego szukania leku?</question>
+    </dilemma>
+        <dilemma type="nonmoral"> 
+        <name>Brownie</name>
+        <description>Postanowiłaś upiec sobie ciastko brownie. Otwierasz książkę kucharską i szukasz przepisu.</description>
+        <problem><![CDATA[Musisz użyć posiekanych orzechów włoskich. Nie lubisz ich, ale masz w kuchni także orzechy makadamia.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na użycie orzechów makadamia, żeby nie jeść włoskich?</question>
+        </dilemma>
+        <dilemma type="nonmoral">
+        <name>Malownicza trasa</name>
+        <description>Stara przyjaciółka zaprosiła Cię, abyś spędziła z nią weekend w jej letnim domku na wybrzeżu.  Zamierzasz pojechać samochodem. Masz do wyboru dwie drogi: autostrada lub trasa nadmorska.</description>
+        <problem><![CDATA[Dojazd autostradą zajmie Ci 3 godziny. Jazda nad morzem trwa 3 godziny 15 minut i oferuje widoki zapierające dech w piersiach.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się pojechać dłuższą trasą, aby móc obserwować widoki w takcie podróży?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Prysznic</name>
+        <description>Planujesz iść na lunch dzisiejszego popołudnia, ale zanim to zrobisz musisz wziąć prysznic. Przed wyjściem na lunch musisz jeszcze popracować na podwórku. Będziesz się przy tym dużo pociła.</description>
+        <problem><![CDATA[Jeśli weźmiesz prysznic przed pracą, będziesz musiała wziąć drugi przed pójściem na lunch. Bardzo lubisz brać prysznic, ale starasz się zaoszczędzić na opłatach za wodę i możesz kąpać się tylko raz dziennie.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się wziąć prysznic przed pracą na podwórku, żeby móc się nim cieszyć już teraz?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Ankieta</name>
+        <description>Przedstawicielka szanowanej, państwowej organizacji sondażowej dzwoni do Ciebie, kiedy w spokoju jesz obiad.</description>
+        <problem><![CDATA[Wyjaśnia, że jeśli zgodzisz się poświęcić pół godziny, aby odpowiadać na pytania dotyczące różnych spraw to jej organizacja wyśle Ci czek na 200 $.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się przerwać obiad, żeby zarobić 200 $?</question>
+    </dilemma>
+     <dilemma type="nonmoral">
+        <name>Pociąg czy autobus</name>
+        <description>Jedziesz na spotkanie z Nowego Yorku do Bostonu. Spotkanie zaczyna się o godzinie 1400. Możesz pojechać pociągiem lub autobusem.</description>
+        <problem><![CDATA[Pociąg dowiezie Cię punktualnie. Autobus przyjeżdża godzinę wcześniej przed umówionym spotkaniem, ale od czasu do czasu spóźnia się kilka godzin z powodu korków. Byłoby dobrze mieć dodatkową godzinę przed spotkaniem, ale nie możesz sobie pozwolić na spóźnienie.]]></problem>
+        <question>Czy w tej sytuacji wybierzesz pociąg, żeby mieć pewność, że się nie spóźnisz?</question>
+    </dilemma>
+    <dilemma type="personal">  
+        <name>Kładka</name>
+        <description>Rozpędzony wagonik toczy się w kierunku pięciu pracowników, którzy zginą jeśli będzie on jechał dalej. Znajdujesz się na kładce nad torami, pomiędzy nadjeżdżającym wagonikiem i pięcioma pracownikami. Koło Ciebie stoi nieznajomy, dobrze zbudowany mężczyzna.</description>
+        <problem><![CDATA[Jedynym sposobem na ocalenie życia pracownikom jest zepchnięcie nieznajomego na tory i zatrzymanie w ten sposób wagonika. Nieznajomy zginie ale w ten sposób ocalisz życie pięciu pracowników.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zepchnąć nieznajomego na tory, aby uratować życie pięciu pracowników?</question>
+    </dilemma>
+    
+    <dilemma type="personal">  
+        <name>Łódź podwodna</name>
+        <description>Jesteś kapitanem wojskowej łodzi podwodnej, która przepływa pod ogromną górą lodową. Wybuch na pokładzie pochłonął większość zapasów z tlenem i ranił jednego z członków załogi, który szybko traci krew. Ranny z pewnością wykrwawi się na śmierć. Pozostała ilość tlenu nie jest wystarczająco dla całej załogi aby wypłynąć na powierzchnię.</description>
+        <problem><![CDATA[Jedynym sposobem na przeżycie załogi jest zastrzelenie rannego, aby zachować pozostałą ilość tlenu dla reszty.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zastrzelić śmiertelnie rannego marynarza, aby ocalić resztę członków załogi?</question>
+    </dilemma>
+    
+    <dilemma type="personal">  
+        <name>Płaczące dziecko</name>
+        <description>Wrogie wojska zajęły Twoją wioskę. Chcą zabić wszystkich cywili. Ty i inni mieszkańcy znaleźliście schronienie w piwnicy dużego domu. Na zewnątrz słyszysz głosy żołnierzy, którzy przyszli do domu aby szukać kosztowności. Twoje dziecko zaczyna głośno płakać. Zatykasz mu usta.</description>
+        <problem><![CDATA[Jeśli nie będziesz zakrywać mu ust, przyciągniesz uwagę żołnierzy. Ty, Twoje dziecko i inni ukrywający się w piwnicy zginiecie. Aby ocalić swoje życie i innych musisz udusić swoje dziecko.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się udusić swoje dziecko, aby ratować swoje życie i życie innych ludzi?</question>
+    </dilemma>
+    
+    <dilemma type="personal">  
+        <name>Wybór Zofii</name>
+        <description>Trwa wojna, Ty i twoje dzieci, 8 i 5 lat, żyjecie na terytorium okupowanym przez wroga. W kwaterze głównej wroga pracuje lekarz, który przeprowadza bolesne eksperymenty, nieuchronnie prowadzące do śmierci.</description>
+        <problem><![CDATA[Chce przeprowadzić je również na Twoich dzieciach, ale pozwala Ci wybrać, które z nich zostanie do tego przeznaczone. Masz 24 godziny na decyzję, które dziecko oddasz do laboratorium. Jeśli odmówisz, obydwoje dzieci zostanie zabranych na eksperymenty.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz, które z Twoich dzieci oddać do laboratorium, aby nie zabrano obydwu?</question>
+    </dilemma>
+    
+    <dilemma type="personal">  
+        <name>Test szczepionki</name>
+        <description>Wirusowa epidemia, która rozprzestrzeniła się na całym świecie zabiła dotychczas miliony ludzi. W swoim domowym laboratorium udało ci się uzyskać dwie substancje. Jedną z nich jest szczepionka przeciw śmiertelnemu wirusowi. Druga substancja to trucizna. Niestety nie wiesz, która jest szczepionką. Jeśli użyjesz szczepionki, uda się ocalić miliony ludzi.</description>
+        <problem><![CDATA[Jedynym sposobem, aby dowiedzieć się, która z nich jest szczepionką, jest wstrzyknięcie tych substancji dwóm osobom, które są pod Twoją opieką. Przez to jedna z tych osób zginie, ale dowiesz się, która substancja jest szczepionką.]]></problem>
+        <question>Czy wobec powyższej sytuacji zdecydujesz się zabić jedną osobę przez podanie jej śmiertelnej substancji, aby zidentyfikować szczepionkę i ocalić miliony ludzi?</question>
+    </dilemma>
+    
+    <dilemma type="personal">  
+        <name>Zapobieganie zarażeniu</name>
+        <description>Jesteś lekarzem. Jeden z Twoich pacjentów zarażony HIV, ma wkrótce opuścić szpital. Powiedział Ci w zaufaniu, że zamierza zarazić jak największą liczbę osób począwszy od tego wieczoru.</description>
+        <problem><![CDATA[Ponieważ obowiązuje Cię tajemnica lekarska, nie masz legalnego sposobu, żeby ostrzec przed jego planem. Uświadamiasz sobie, że możesz mu podać niewykrywalną truciznę, która zabije go zanim zacznie realizować swój plan.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się podać mu truciznę, aby uchronić wielu ludzi przez zarażeniem HIV?</question>
+    </dilemma>
+    
+    <dilemma type="nonpersonal">
+        <name>Wagonik (wersja standardowa)</name>
+        <description>Kierujesz rozpędzonym wagonikiem. Nagle natrafiasz na rozwidlenie torów. Na torze biegnącym w lewo znajduje się pięciu pracowników kolei. Na torze biegnącym w prawo znajduje się jeden pracownik.</description>
+        <problem><![CDATA[Jeśli nic nie zrobisz wagonik sam skręci w lewo powodując śmierć pięciu pracowników. Jedynym sposobem uniknięcia ich śmierci jest wciśnięcie przycisku na desce rozdzielczej wagonika, co spowoduje, że skręci on w prawo, powodując tym samym śmierć jednego pracownika.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się wcisnąć przycisk na desce rozdzielczej, aby wagonik skręcił w prawo na tor z jednym pracownikiem?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Trujący dym (wersja standardowa)</name>
+        <description>Jesteś stróżem nocnym w szpitalu. W wyniku wypadku mającego miejsce za drzwiami sąsiedniego budynku śmiertelnie trujący dym rozprzestrzenia się przez system wentylacyjny szpitala. W jednej z sal szpitalnych znajduje się trzech pacjentów. W innej sali przebywa jeden pacjent.</description>
+        <problem><![CDATA[Jeśli nic nie zrobisz dym dostanie się do pokoju z trzema pacjentami powodując ich śmierć. Jedynym sposobem, żeby ich uratować jest naciśnięcie przełącznika wentylacji. Wtedy dym ominie salę z trzema pacjentami. W rezultacie jednak dostanie się on do sali z jednym pacjentem powodując jego śmierć.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się przestawić system wentylacyjny, aby skierować dym do sali z jednym pacjentem?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Polityka szczepień</name>
+        <description>Pracujesz dla rządowej agencji zdrowia. Musisz podjąć decyzję, czy udzielić poparcia wprowadzeniu na rynek szczepionki, która została niedawno opracowana. Zdecydowana większość zaszczepionych osób rozwinęła odporność na śmiertelną chorobę. Niemniej jednak niewielka ilość ludzi mimo wszystko zachorowała.</description>
+        <problem><![CDATA[Wszystkie dostępne dane wskazują, że prawdopodobieństwo zachorowania bez szczepienia jest o wiele większe niż prawdopodobieństwo zachorowania w wyniku zaszczepienia.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się tak wpłynąć na agencję, by zachęcała ludzi do brania szczepionki?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Oczy</name>
+        <description>W przeszłości brałaś udział w wojnie. Całkowicie straciłaś wtedy wzrok. Dzięki osiągnięciom współczesnej medycyny możliwa jest transplantacja gałek ocznych. Niestety, ku Twojej wściekłości i zdziwieniu nie ma obecnie żadnego dawcy. Współczujący Ci chirurg, który działa na czarnym rynku, oferuje Ci pomoc.</description>
+        <problem><![CDATA[Jeśli go zatrudnisz, on i jego współpracownicy porwą nieznajomego, wyłupią mu oczy i przeszczepią je Tobie.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zatrudnić tego chirurga, aby przeszczepił Tobie gałki oczne?</question>
+    </dilemma>
+    
+    <dilemma type="nonpersonal">
+        <name>Podatki</name>
+        <description>Jesteś właścicielką małej firmy ledwie wiążącej koniec z końcem. Masz okazję obniżyć płacenie podatków poprzez wliczenie części swoich osobistych wydatków w wydatki związane z prowadzeniem firmy.</description>
+        <problem><![CDATA[Przykładowo sprzęt stereo w Twojej sypialni zaliczysz do sprzętu używanego w biurze, a obiady z mężem jako spotkania z klientem.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się przedstawić osobiste wydatki jako koszty działalności, aby obniżyć podatek?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Wskazówka dotycząca inwestowania</name>
+        <description>Pracujesz w firmie doradczej i prowadzisz sprawę klienta dużej korporacji. Masz dostęp do poufnych informacji, które są bardzo przydatne dla inwestorów. Twoja znajoma gra na giełdzie. Jesteś jej winna dużą sumę pieniędzy. Dzieląc się z nią poufnymi informacjami pomożesz jej zarobić dużą sumę pieniędzy, o wiele większą niż jesteś jej winna.</description>
+        <problem><![CDATA[Jeśli to zrobisz nie będzie ona oczekiwać od Ciebie spłacenia długu. Ujawnianie tego typu informacji jest jednak surowo zabronione przez prawo.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się udzielić stosownych informacji swojej koleżance, aby cofnęła Ci ona dług?</question>
+    </dilemma>
+    <dilemma type="warmup">
+        <name>Przesyłka</name>
+        <description>Otrzymałeś informację z internetowego serwisu wysyłkowego. Masz dwie możliwości odbioru zamówionej przesyłki.</description>
+        <problem><![CDATA[Jeśli zaznaczysz opcję kurier przesyłka zostanie dostarczona do domu za dodatkową opłatą 20 zł.
+        Jeśli nic nie zaznaczysz przesyłkę dojdzie na pocztę i sam będziesz musiał po nią pojechać płacąc przy odbiorze 10 zł.]]>
+        </problem>
+        <question>Czy w takiej sytuacji zaznaczysz opcję kurier?</question>
+    </dilemma>      
+    <dilemma type="warmup">
+        <name>Urlop</name>
+        <description>Planujesz wyjazd samochodem na urlop. Twoja samochodowa nawigacja GPS ma możliwość programowania dwóch opcji podróży: „trasa szybka”, „trasa ciekawa”</description>
+        <problem><![CDATA[Jeśli nic nie zaznaczysz nawigacja automatycznie wybierze opcję „trasa ciekawa”.
+Zobaczysz ładne widoki ale będziesz na miejscu dużo później.]]></problem>
+        <question>Czy w takiej sytuacji wybierzesz opcję „trasa szybka”?</question>
+    </dilemma>
+    <dilemma type="warmup">
+        <name>Lodówka</name>
+        <description>Zastanawiasz się nad kupnem nowej lodówki. Lodówka o bardzo dobrych parametrach oszczędności energii kosztuje 1500 zł. Jest to dokładnie tyle ile masz w tym momencie pieniędzy. Do następnej wypłaty pozostał jeszcze tydzień. W sklepie jest jeszcze lodówka za 1000 zł ale nie jest energooszczędna.</description>
+        <problem><![CDATA[Jeśli wydasz 1500 zł na lodówkę będziesz miał trudności z utrzymaniem się do końca miesiąca
+ale później otrzymasz niższe rachunki za prąd.]]></problem>
+        <question>Czy w takiej sytuacji kupisz lodówkę za 1500zł?</question>
+    </dilemma>
+  
+</root>

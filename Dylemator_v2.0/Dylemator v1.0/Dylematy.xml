@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <dilemma type="warmup">
+        <name>Przesyłka</name>
+        <description>Otrzymałeś informację z internetowego serwisu wysyłkowego. Masz dwie możliwości odbioru zamówionej przesyłki.</description>
+        <problem><![CDATA[Jeśli zaznaczysz opcję kurier przesyłka zostanie dostarczona do domu za dodatkową opłatą 20 zł.
+        Jeśli nic nie zaznaczysz przesyłkę dojdzie na pocztę i sam będziesz musiał po nią pojechać płacąc przy odbiorze 10 zł.]]>
+        </problem>
+        <question>Czy w takiej sytuacji zaznaczysz opcję kurier?</question>
+    </dilemma>      
+    <dilemma type="warmup">
+        <name>Urlop</name>
+        <description>Planujesz wyjazd samochodem na urlop. Twoja samochodowa nawigacja GPS ma możliwość programowania dwóch opcji podróży: „trasa szybka”, „trasa ciekawa”</description>
+        <problem><![CDATA[Jeśli nic nie zaznaczysz nawigacja automatycznie wybierze opcję „trasa ciekawa”.
+Zobaczysz ładne widoki ale będziesz na miejscu dużo później.]]></problem>
+        <question>Czy w takiej sytuacji wybierzesz opcję „trasa szybka”?</question>
+    </dilemma>
+    <dilemma type="warmup">
+        <name>Lodówka</name>
+        <description>Zastanawiasz się nad kupnem nowej lodówki. Lodówka o bardzo dobrych parametrach oszczędności energii kosztuje 1500 zł. Jest to dokładnie tyle ile masz w tym momencie pieniędzy. Do następnej wypłaty pozostał jeszcze tydzień. W sklepie jest jeszcze lodówka za 1000 zł ale nie jest energooszczędna.</description>
+        <problem><![CDATA[Jeśli wydasz 1500 zł na lodówkę będziesz miał trudności z utrzymaniem się do końca miesiąca
+ale później otrzymasz niższe rachunki za prąd.]]></problem>
+        <question>Czy w takiej sytuacji kupisz lodówkę za 1500zł?</question>
+    </dilemma>
+    <dilemma type="personal">
+        <name>Rozbity samolot</name>
+        <description>Samolot którym leciałeś rozbił się w Himalajach. Oprócz Ciebie przeżyło pięciu mężczyzn i jeden mały chłopiec, który został ranny. Kilka dni przedzieraliście się przez góry walcząc z ekstremalnym wiatrem i mrozem. Jedyną Waszą szansą na przeżycie jest znalezienie małej wioski położonej po drugiej stronie góry. Dotarcie do niej zajmie jeszcze kilka dni. Marsz opóźnia zraniony chłopiec. Jeden z mężczyzn sugeruje, żeby go zabić a szczątki zjeść.</description>
+        <problem><![CDATA[Jeśli zabijesz chłopca wszyscy pozostali przeżyją.
+Jeśli tego nie zrobisz wszyscy zginiecie.]]></problem>
+        <question>Czy w takiej sytuacji zdecydujesz się zabić chłopca?</question>
+    </dilemma>
+    <dilemma type="personal">
+        <name>Transplantacja</name>
+        <description>Jesteś lekarzem. Masz pięciu pacjentów. Każdy z nich umiera z powodu pogarszającego się stanu jakiegoś narządu wewnętrznego. Masz też jednego młodego pacjenta, który jest zdrowy. Jednym sposobem na uratowanie życia tych pięciu chorych jest przeszczepienie organów młodego pacjenta (wbrew jego woli) chorym pacjentom.</description>
+        <problem><![CDATA[Jeśli to przeszczepisz narządy jeden pacjent zginie.
+Jeśli tego nie zrobisz pięciu chorych umrze.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się dokonać przeszczepu?</question>
+    </dilemma>
+
+    <dilemma type="personal">
+        <name>Ekolodzy</name>
+        <description>Należysz do grupy ekologów, z którą przebywasz w odległej części dżungli. Cała grupa, w której znajduje się także ośmioro dzieci, została porwana przez paramilitarny oddział terrorystyczny. Jeden z terrorystów polubił cię. Poinformował cię, że ich dowódca zamierza Was wszystkich zabić rano. Zaoferował się także pomóc Ci uciec z dziećmi pod warunkiem, że własnoręcznie zabijesz jednego ze swoich kolegów zakładników, którego ten terrorysta nie lubi.</description>
+        <problem><![CDATA[Jeśli zabijesz kolegę uciekniesz razem z ósemką dzieci.
+Jeśli tego nie zrobisz wszyscy rano zginiecie.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na zabicie kolegi?</question>
+    </dilemma>
+    <dilemma type="personal">
+        <name>Łódź podwodna</name>
+        <description>Jesteś kapitanem małej łodzi podwodnej przepływającej pod obszerną pokrywą lodową. Eksplozja dramatycznie obniżyła dostępność tlenu na pokładzie. W jej wyniku został także zraniony jeden członek załogi, który może umrzeć z powodu ran. Pozostała ilość tlenu jest niewystarczająca, by przetrwało sześciu członków załogi.</description>
+        <problem><![CDATA[Jeśli zastrzelisz rannego marynarza, na statku pozostanie wystarczająca ilość tlenu, żeby pozostałe osoby przeżyły.
+Jeśli tego nie zrobisz wszyscy zginiecie.]]></problem>
+        <question>Czy w tej sytuacji zdecydowałbyś się na zastrzelenie marynarza?</question>
+    </dilemma>
+    <dilemma type="personal"> 
+        <name>Profanacja</name>
+        <description>Ty i grupa Twoich przyjaciół szykujecie się do powrotu z wyprawy. Podczas przeprawiania się przez kamienistą równinę na wyżynach Gwatemalii bezwiednie rozbiłeś obóz na tubylczym cmentarzu. Przywódca klanu informuje cię, że za to co zrobiliście, według ich prawa należy Was złożyć w ofierze ich bogom; chyba, że sam zabijesz jednego z towarzyszy wyprawy, wtedy bogowie będą zadowoleni i będziecie mogli odejść.</description>
+        <problem><![CDATA[Jeśli zabijesz przyjaciela wszyscy pozostali przeżyją.
+Jeśli tego nie zrobisz wszyscy zginiecie.]]></problem>
+        <question>Czy w takiej sytuacji zdecydowałbyś się zabić przyjaciela?</question>        
+    </dilemma>
+    <dilemma type="personal">
+        <name>Zakładnicy</name>
+        <description>Pracujesz – razem z innymi pięcioma kolegami – jako wysłannik pokojowy na obszarze objętym wojną. Wasza grupa zostaje ujęta przez oddział terrorystów i jesteście zakładnikami. Po tygodniu okazało się, że żądania terrorystów nie zostały spełnione. Zaproponowali tobie wybór:</description>
+        <problem><![CDATA[Jeśli sam zabijesz jednego ze zakładników będziesz mógł wraz z pozostałymi odejść wolny.
+Jeśli tego nie zrobisz zostaniecie wszyscy zabici.]]></problem>
+        <question>Czy w takiej sytuacji zdecydujesz się zabić zakładnika?</question>
+    </dilemma>
+    <dilemma type="personal">  
+        <name>Tratwa ratunkowa</name>
+        <description>Płynąłeś małym statkiem. Wybuchł pożar. Statek zatonął. Twoja malutka tratwa ratunkowa jest przepełniona. Istnieje niebezpieczeństwo, że napełni się ona wodą. Na pokładzie tratwy jest jedna osoba ranna, która może umrzeć w czasie oczekiwania na pomoc.</description>
+        <problem><![CDATA[Jeśli ranną osobę wypchniesz za burtę wszyscy pozostali ocaleją.
+Jeśli tego nie zrobisz wszyscy utoniecie.]]></problem>
+        <question>Czy w takiej sytuacji zdecydujesz się wypchnąć rannego poza burtę?</question>
+    </dilemma>
+    <dilemma type="personal">
+        <name>Jeńcy wojenni</name>
+        <description>Ty wraz z kilkoma innymi żołnierzami zostaliście pojmani w takcie działań wojennych. Po roku w obozie jenieckim Twoja grupa próbowała uciec, ale została złapana. Nadzorca obozu postanowił powiesić was na oczach pozostałych jeńców. Kiedy byłeś już na szubienicy, zdjął Tobie pętlę z szyi i postawił przed wyborem:</description>
+        <problem><![CDATA[Jeśli sam usuniesz krzesło spod nóg jednego z twoich kolegów na szubienicy Ty i pozostali Twoi koledzy nie zostaną powieszeni.
+Jeśli tego nie zrobisz wszyscy zginiecie.]]></problem>
+        <question>Czy w takiej sytuacji zdecydowałbyś się usunąć krzesło spod nóg kolegi?</question>
+    </dilemma>
+    <dilemma type="personal">   
+        <name>Grotołazi</name>
+        <description>Ty wraz z pięcioma innymi osobami penetrujesz nadmorskie jaskinie. Spadająca skała zablokowała Wam wyjście. Nadchodzi przypływ. Znalazłeś otwór w innym miejscu i pozwoliłeś obszernemu mężczyźnie z waszej grupy wyjść jako pierwszy. Utknął w dziurze z głową wystającą poza jaskinię i utonie jeśli go szybko się nie wydostanie. Masz przy sobie małą laskę dynamitu, która nie wystarczy, żeby skruszyć skałę, ale wystarczy, by rozerwać mężczyznę i otworzyć pozostałym drogę wyjścia z jaskini.</description>
+        <problem><![CDATA[Jeśli rozerwiesz zatykającego wyjście mężczyznę dynamitem uratujesz się ty i pozostałe osoby.
+Jeśli tego nie zrobisz zginiecie wszyscy.]]></problem>
+        <question>Czy w takiej sytuacji zdecydowałbyś się na rozerwanie mężczyzny dynamitem?</question>
+    </dilemma>
+    <dilemma type="personal">
+        <name>Pułapka</name>
+        <description>Jesteś dowódcą sześcioosobowego oddziału żołnierzy, który powraca z zakończonej misji na terytorium wroga. Nagle jeden z Twoich żołnierzy nadepnął na pułapkę. Został ranny. Pułapka połączona jest z urządzeniami alarmowymi wroga, które informują go gdzie się znajdujesz.</description>
+        <problem><![CDATA[Jeśli zostaniesz z rannym wrogowie znajdą Twój oddział zginą wszyscy (sześciu żołnierzy).
+Jeśli go zostawisz rannego, on z pewnością zginie, ale Ty z pozostałymi żołnierzami bezpiecznie uciekniesz.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zostawić rannego żołnierza na śmierć?</question>
+    </dilemma>
+    <dilemma type="personal">      
+        <name>Kładka</name>
+        <description>Stoisz na kładce dla pieszych ponad torami kolejowymi. Obok ciebie stoi potężny mężczyzna. Widzisz nadjeżdżający wagonik kolejowy którym nikt nie kieruje. Za kładką, na tym samym torze znajduje się pięciu pracowników kolei. Jedynym sposobem, żeby ich uratować jest zepchnięcie potężnego mężczyzny z kładki pod wagonik.</description>
+        <problem><![CDATA[Jeśli zepchniesz potężnego mężczyznę pod wagonik, ten z pewnością zginie, ale nic złego nie stanie się pracownikom.
+Jeśli tego nie zrobisz zginie pięciu pracowników kolei.]]></problem>
+        <question>Czy w takiej sytuacji zdecydowałbyś się na zepchnięcie mężczyzny z kładki pod wagonik?</question>
+    </dilemma>
+    <dilemma type="personal">  
+        <name>Niemowlę</name>
+        <description>Wrogie wojsko zaatakowało twoją wioskę i mordują wszystkich pozostałych dotąd przy życiu cywilów. Ty wraz z pięcioma innymi osobami schowałeś się w piwnicy dużego domu. Żołnierze przeszukują dom w poszukiwaniu kosztowności. Niemowlę znajdujące się razem z Wami w piwnicy zaczyna płakać. Zakrywasz mu usta, ale ono przez to nie może oddychać.</description>
+        <problem><![CDATA[Jeśli przytrzymasz usta zakryte przez dłuższy czas niemowlę udusi się.
+Jeśli tego nie zrobisz, płacz dziecka spowoduje, że żołnierze znajdą was zabiją dziecko, Ciebie i pozostałe pięć osób.]]></problem>
+        <question>Czy takiej sytuacji zdecydowałbyś się udusić dziecko?</question>
+    </dilemma>
+    
+    <dilemma type="nonpersonal">
+        <name>Wagonik (standardowy)</name>
+        <description>Stoisz przy zwrotnicy kolejowej. Widzisz zbliżający się do rozjazdu torów wagonik, którym nikt nie kieruje. Na torze biegnącym w lewą stronę znajduje się grupa pracowników kolei. Na torze biegnącym w prawą stronę znajduje się jeden pracownik.</description>
+        <problem><![CDATA[Jeśli przestawisz zwrotnicę wagonik będzie jechał w prawo skutkiem czego będzie śmierć jednej osoby.
+Jeśli tego nie zrobisz wagonik będzie jechał w lewo skutkiem będzie śmierć pięciu pracowników.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się przestawić zwrotnicę?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Wagonik (wersja pięć na siedem)</name>
+        <description>Stoisz przy zwrotnicy kolejowej. Widzisz zbliżający się do rozjazdu torów wagonik, którym nikt nie kieruje. Na torze, po którym jedzie znajduje się pięciu pracowników kolei. Tor boczny jest zepsuty. </description>
+        <problem><![CDATA[Jeśli przestawisz zwrotnicę skierujesz wagonik na boczny tor; z pewnością się on wykolei i stoczy ze wzgórza, w poprzek drogi na czyjeś podwórko. Właściciel podwórka, który śpi w hamaku zostanie zabity.
+Jeśli tego nie zrobisz zginie pięciu pracowników kolei.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się przestawić zwrotnicę?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Trujący dym (standardowy)</name>
+        <description>Jesteś stróżem nocnym w szpitalu. W jednym z laboratoriów wydarzył się wypadek. Śmiertelnie trujący gaz rozprzestrzenia się po szpitalnym systemie wentylacyjnym. Dym rozprzestrzenia się w kierunku pokoju, w którym znajduje się pięciu pacjentów. </description>
+        <problem><![CDATA[Jeśli przełączysz system wentylacji dym dostanie się do pokoju, w którym zabije jednego pacjenta.
+Jeśli tego nie zrobisz gaz dostanie się do pokoju, w którym zabije pięciu pacjentów.]]></problem>
+        <question>Czy w tej sytuacji zdecydowałbyś się na przełączenie wentylacji?</question>
+        
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Trujący dym (trzy na siedem)</name>
+        <description>Jesteś stróżem nocnym w szpitalu. W jednym z laboratoriów wydarzył się wypadek. Śmiertelnie trujący gaz rozprzestrzenia się po szpitalnym systemie wentylacyjnym. Dym rozprzestrzenia się w kierunku pokoju, w którym znajduje się trzech pacjentów.</description>
+        <problem><![CDATA[Jeśli przełączysz system wentylacji dym dostanie się do pokoju, w którym zabije siedmiu  pacjenta.
+Jeśli tego nie zrobisz dym dostanie się do pokoju, w którym zabije pięciu pacjentów]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na przełączenie wentylacji?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Datek</name>
+        <description>Pewnego dania kiedy jesteś w domu przychodzi do Ciebie list. Zawiera on wiadomość od znanej międzynarodowej organizacji charytatywnej. List jest prośbą skierowaną do Ciebie o przekazanie datku w wysokości dwustu dolarów na rzecz tej organizacji. List wyjaśnia, że dwieście dolarów będzie wystarczające aby organizacja mogła dostarczyć potrzebne lekarstwa kilku biednym ludziom mieszkającym w innej części świata.</description>
+        <problem><![CDATA[Jeśli prześlesz pieniądze, pomożesz kilku ludziom z innej części świata.
+Jeśli tego nie zrobisz być może ludzie z innej części świata pozostaną bez pomocy medycznej.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na wysłanie dwustu dolarów?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Zarządzanie szczepieniami</name>
+        <description>Jesteś pracownikiem Biura Ochrony Zdrowia, które jest agencją rządową. Decydujesz czy agencja powinna poprzeć użycie pewnej niedawno odkrytej szczepionki. U ogromna większość ludzi, którzy zostaną zaszczepieni wytworzy się odporność na pewną śmiertelną chorobę; ale niewielka grupa osób, która weźmie szczepionkę z pewnością zachoruje na chorobę, przed którą szczepionka ma chronić.</description>
+        <problem><![CDATA[Z wszystkich dostępnych danych jednoznacznie wynika, że:
+prawdopodobieństwo zarażenia się z powodu nie wzięcia szczepionki jest o wiele mniejsze niż prawdopodobieństwo zarażenia się z powodu szczepienia.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się wydać zgodę na użycie szczepionki?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Ochrona środowiska (A1)</name>
+        <description>Jesteś członkiem rządowej komisji ustawodawczej. Komisja ma głosować nad wyborem jednego z dwóch sposobów prowadzenia polityki dotyczącej zagrożeń środowiska. Masz świadomość, że:</description>
+        <problem><![CDATA[Jeśli zagłosujesz na „Politykę A” istnieje 90% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednocześnie 10% prawdopodobieństwa, że w jej wyniku zginie 1000 osób. 
+Jeśli zagłosujesz na „Politykę B” istnieje 92% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednak 8% prawdopodobieństwa, że w jej wyniku zginie 10 000 osób.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zagłosować na wprowadzenie polityki A?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">        
+        <name>Ochrona środowiska (A2)</name>
+        <description>Jesteś członkiem rządowej komisji ustawodawczej. Komisja ma głosować nad wyborem jednego z dwóch sposobów prowadzenia polityki dotyczącej zagrożeń środowiska. Masz świadomość, że:</description>
+        <problem><![CDATA[Jeśli zagłosujesz na „Politykę A” istnieje 90% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednocześnie 10% prawdopodobieństwa, że w jej wyniku zginie 1000 osób. 
+Jeśli zagłosujesz na „Politykę B” istnieje 88% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednak 12% prawdopodobieństwa, że w jej wyniku zginie 10 osób.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zagłosować na wprowadzenie polityki B?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Ochrona środowiska (B1)</name>
+        <description>Jesteś członkiem rządowej komisji ustawodawczej. Komisja ma głosować nad wyborem jednego z dwóch sposobów prowadzenia polityki dotyczącej zagrożeń środowiska. Masz świadomość, że: </description>
+        <problem><![CDATA[Jeśli zagłosujesz na „Politykę A” istnieje 90% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednocześnie 10% prawdopodobieństwa, że w jej wyniku zginie 1000 osób. 
+Jeśli zagłosujesz na „Politykę B” istnieje 92% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednak 8% prawdopodobieństwa, że w jej wyniku zginie 10 000 osób.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zagłosować na wprowadzenie polityki B?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Ochrona środowiska (B2)</name>
+        <description>Jesteś członkiem rządowej komisji ustawodawczej. Komisja ma głosować nad wyborem jednego z dwóch sposobów prowadzenia polityki dotyczącej zagrożeń środowiska. Masz świadomość, że:</description>
+        <problem><![CDATA[Jeśli zagłosujesz na „Politykę A” istnieje 90% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednocześnie 10% prawdopodobieństwa, że w jej wyniku zginie 1000 osób. 
+Jeśli zagłosujesz na „Politykę B” istnieje 88% prawdopodobieństwa, że nie spowoduje ona niczyjej śmierci. Jest jednak 12% prawdopodobieństwa, że w jej wyniku zginie 10 osób.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zagłosować na wprowadzenie polityki A?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Rzeźba</name>
+        <description>Odwiedzasz ogród rzeźb bogatego kolekcjonera dzieł sztuki. Ogród leży ponad doliną, którą przebieają tory kolejowe. Na torach znajduje się pracownik kolei. Pusty wagonik kolejowy toczy się wprost na pracownika. Jedynym sposobem by uratować, życie pracownika jest zepchnięcie cennej figury należącej do kolekcjonera w dół doliny na tory.</description>
+        <problem><![CDATA[Jeśli zdecydujesz się zepchnąć cenną rzeźbę na tory, wagonik wykolei się i uratujesz żucie pracownika. 
+Jeśli tego nie zrobisz pracownik zginie.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się zniszczyć rzeźbę w celu ratowania życia pracownika?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">       
+        <name>Motorówka</name>
+        <description>Podczas wakacji na oddalonej wyspie, wędkujesz na przystani. Obserwujesz grupę turystów na niewielkiej łódce i płynących do pobliskiej wyspy. Wkrótce po tym jak się wyprawili słyszysz przez radio, że nadchodzi straszny sztorm, który z pewnością ich dopadnie. Jedynym sposobem by ich przed nim uchronić jest ostrzeżenie ich dzięki pożyczeniu znajdującej się w pobliżu motorówki. Motorówka należy do skąpego magnata, który nie odniesie się grzecznie do sprawy pożyczenia przez ciebie jego własności.</description>
+        <problem><![CDATA[Jeśli pożyczysz motorówkę od niechętnego, bogatego magnata ostrzeżesz turystów przed nadchodzącym sztormem.
+Jeśli tego nie zrobisz sztorm z pewnością dopadnie turystów.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na pożyczenie motorówki?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Podatki</name>
+        <description>Posiadasz niewielki business, próbując łączyć koniec z końcem. Dochodzisz do wniosku, że mógłbyś obniżyć podatki wykazując, że niektóre twoje osobiste wydatki są wydatkami firmowymi.</description>
+        <problem><![CDATA[Przykładowo mógłbyś wykazać, że sprzęt stereo w twojej sypialni jest używany w poczekalni do twojego biura,
+lub że twoje obiady z żoną są obiadami z klientami.]]></problem>
+        <question>Czy w takiej sytuacji zdecydujesz się na wykazywanie, że niektóre Twoje wydatki osobiste są wydatkami firmowymi?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Tajemnica handlowa</name>
+        <description>Jesteś konsultantem menadżera pracującym okazjonalnie dla szerokiej grupy klientów korporacji. Masz dostęp do poufnych informacji które mogą być użyteczne dla inwestorów. Masz przyjaciółkę, która gra na giełdzie. Jesteś winny jej sporą sumę pieniędzy. Jeśli dostarczysz jej poufne informacje pomożesz tym samym zarobić dużo pieniędzy na giełdzie – szacunkowo o wiele więcej niż jesteś mu winien. Jeśli to zrobisz ona skasuje twój dług. Jednak rozpowszechnianie tego typu informacji jest surowo zabronione przez prawo.</description>
+        <problem><![CDATA[Jeśli przekażesz poufne informacje przyjaciółce złamiesz prawo, ale wyjdziesz z długu.
+Jeśli tego nie zrobisz będziesz miał nadał duży dług do spłacenia.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się wyjawić poufne informacje handlowe?</question>
+    </dilemma>
+    <dilemma type="nonpersonal">
+        <name>Oczy</name>
+        <description>W przyszłości; jesteś weteranem wojny podczas, której straciłeś oboje oczu. Postęp wiedzy medycznej spowodował, że istnieje możliwość transplantacji gałek ocznych. Niestety złościsz się ponieważ nie ma dawców.</description>
+        <problem><![CDATA[Chirurg  „mający wejścia” na czarnym rynku medycznym proponuje ci pomoc.
+Jeśli skorzystasz z jego oferty, on i jego ludzie porwą jakąś przypadkową obcą osobę, pozyskają od niej gałki oczne i przeszczepią Tobie.]]></problem>
+        <question>Czy w takiej sytuacji zdecydujesz się na pozyskanie oczu od obcego dawcy w celu odzyskania swojego wzroku?</question>
+    </dilemma>
+    
+    <dilemma type="nonmoral">
+        <name>Transport roślin</name>
+        <description>Transportujesz do wiele roślin ze sklepu który jest około 5 kilometrów od twojego domu. Bagażnik twojego samochodu który wyłożyłeś plastikiem dla ochrony przed błotem z roślin będzie posiadać wiele roślin przez ciebie kupionych.</description>
+        <problem><![CDATA[JMożesz przewieść wszystkie rośliny do domu w bagażniku, ale wymagałoby to umieszczenia części z nich na tylnym siedzeniu i w bagażniku.
+Jeśli to zrobisz możesz zniszczyć skórzaną tapicerkę, której  wymiana może będzie kosztować tysiące dolarów.]]></problem>
+        <question>Czy w takiej sytuacji zdecydujesz się przewieść wszystkie rośliny jednym transportem?</question>
+    </dilemma>
+        <dilemma type="nonmoral"> 
+        <name>Planowanie</name>
+        <description>Jesteś odpowiedzialny za planowania wizyt w gabinecie stomatologicznym. Dwie osoby, panie Morris i pani Santiago prosili o umówienie wizyty na następny poniedziałek. Jedyne wolne w poniedziałek godziny są o 10:00 i o 15:00.</description>
+        <problem><![CDATA[Plan pana Morrisa jest dość elastyczny. Może on przyjść na 10:00 lub 15:00. 
+Możliwości czasowe Pani Santiago są mniejsze. 
+Ona może mieć tylko jej spotkanie o godzinie 10:00.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na zapisać Pana Morrisa na 15:00, żeby oboje mogli przyjść na wizytę w poniedziałek?</question>
+        </dilemma>
+        <dilemma type="nonmoral">
+        <name>Lek zastępczy</name>
+        <description>Boli Cię głowa. Idziesz do apteki mając zamiar kupić konkretny markowy lek. Okazuje się, że w aptece nie ma tego konkretnego leku, który szukasz.</description>
+        <problem><![CDATA[Farmaceuta, którego znasz długi czas, i do którego masz duże zaufanie, mówi że ma w magazynie lek zastępczy, który wg niego jest „dokładnie tym samym”, który chciałeś pierwotnie kupić.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na kupno leku zastępczego zamiast dalszego szukania leku oryginalnego?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Ciastko</name>
+        <description>Zdecydowałeś się zrobić sobie porcję ciasteczek dla siebie. Otworzyłeś książkę z przepisami i znalazłeś przepis na ciastko orzechowe.</description>
+        <problem><![CDATA[Przepis wymaga użycia szklanki posiekanych orzechów włoskich. Nie lubisz orzechów włoskich ale lubisz orzechy makadamia.
+Tak się składa, że masz i orzechy włoskie i orzechy makadamia.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się użyć orzechów makadamia, żeby uniknąć jedzenia orzechów włoskich?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Pociągiem czy autobusem?</name>
+        <description>Musisz pojechać z Nowego Yorku do Bostonu, żeby wziąć udział w spotkaniu, które rozpocznie się o 14.00.</description>
+        <problem><![CDATA[Pociąg z pewnością dowiezie Cię na spotkanie dokładnie na czas.
+Autobus ma planowany czas przyjazdu na godzinę przed spotkaniem, ale czasami zdarza się, że się spóźnia z powodu korków.
+Byłoby świetnie dla Ciebie być godzinę przed spotkaniem, ale nie możesz sobie pozwolić na kilka godzin spóźnienia. ]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na wzięcie pociągu zamiast autobusu, żeby być dokładnie na spotkaniu?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Komputer</name>
+        <description>Rozglądasz się za nowym komputerem. Komputer, który znalazłeś obecnie kosztuje 1000 dolarów. Twój znajomy, z branży komputerowej powiedział, że cena tego komputera za miesiąc spadnie do 500 $.</description>
+        <problem><![CDATA[JJeśli zdecydujesz się poczekać kilka tygodni, z kupnem nowego komputera, będziesz musiał w tym czasie używać starego sprzętu. Niemniej jednak będziesz w stanie na nim zrobić wszystko, co masz do wykonania. ]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się używać starego komputera przez kilka tygodni, aby nowy kupić za 500 dolarów?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Ankieta</name>
+        <description>Przedstawiciel znanej w kraju organizacji prowadzącej badania statystyczne przyszedł do Twojego domu, podczas gdy sam spokojnie spożywasz kolację.</description>
+        <problem><![CDATA[Przedstawiciel wyjaśnia, że jeśli jesteś gotów poświęcić pół godziny odpowiadając na pytania dotyczące różnych tematów, jego organizacja prześle na Twoje konto 200 $.]]></problem>
+        <question>Czy zdecydujesz się przerwać swój obiad, aby zarobić 200 dolarów?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Talony</name>
+        <description>Przyszedłeś do księgarni, aby kupić książki o wartości 50 dolarów. Masz ze sobą dwa talony.</description>
+        <problem><![CDATA[Jeden talon daje 30% rabatu. Jego ważność upływa jutro.
+Drugi talon daje 25% rabatu, ale jest ważny jeszcze przez kolejny rok.]]></problem>
+        <question>Czy zdecydowałbyś się użyć talonu na 30% zniżki podczas dzisiejszego zakupu tak, żeby zostawić sobie możliwość wykorzystania drugiego talonu przez kolejny rok?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Trasa widokowa</name>
+        <description>Stary przyjaciel Cię na weekend do swojego letniego domu na wybrzeżu niedaleko miejsca z którego pochodzisz. Zamierzasz pojechać tam samochodem. Na miejsce prowadzą dwie trasy: autostrada i droga wybrzeżem.</description>
+        <problem><![CDATA[Jadąc autostradą będziesz domu swojego przyjaciela w około trzy godziny, ale widoki wzdłuż autostrady są bardzo nudne.
+Jadąc wybrzeżem będziesz w domu swojego przyjaciela w około trzy godziny i piętnaście minut, a widoki nadmorskie są niesamowicie piękne.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się jechać wybrzeżem, aby móc podziwiać piękne krajobrazy?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Buraki (wersja standardowa)</name>
+        <description>Jesteś rolnikiem prowadzisz maszynę do zbioru buraków. Masz możliwość pojechania dwoma różnymi drogami.</description>
+        <problem><![CDATA[Jeśli wybierzesz drogę po lewej stronie zbierzesz 400 kg buraków.
+Jeśli wybierzesz ścieżkę po prawej stronie, zbierzesz 800 kg buraków. 
+Jeśli nic nie zrobisz twoja maszyna pojedzie na lewo.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się skręcić maszynę w lewo?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Buraki (wersja niestandardowa)</name>
+        <description>Jesteś rolnikiem prowadzisz maszynę do zbioru buraków. Masz możliwość pojechania dwoma różnymi drogami.</description>
+        <problem><![CDATA[JJeśli wybierzesz drogę po lewej stronie zbierzesz tonę buraków.
+Jeśli wybierzesz ścieżkę po prawej stronie, zbierzesz pół tony buraków. 
+Jeśli nic nie zrobisz twoja maszyna pojedzie na lewo.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się skręcić maszynę w prawo, żeby zebrać pół tony buraków zamiast trzydziestu?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Oferta inwestycyjna</name>
+        <description>Pewnego dnia otwierasz pocztę. Otrzymałeś list od renomowanej korporacji świadczącej usługi finansowe. Oni zaprosili cię do inwestowania w funduszu. Twój wkład początkowy wynosi tysiąc dolarów.</description>
+        <problem><![CDATA[Tak się składa, że dobrze znasz ten fundusz. Nie był o zbyt dobrze prowadzony w ciągu ostatnich kilku lat i nie zanosi się na to, żeby miał być prowadzony lepiej w przyszłości.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na zainwestowanie w tym funduszu tysiąca dolarów w celach zarobkowych?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Popsuty magnetowid </name>
+        <description>Zabrałeś swój uszkodzony magnetowid do lokalnego warsztatu. Kobieta pracująca w nim  oświadczyła, że naprawa będzie kosztować około 100 dolarów.</description>
+        <problem><![CDATA[JPrzypominasz sobie, że rano widziałeś w gazecie informację, że w sklepie elektronicznym obok jest w sprzedaży nowy magnetowid.
+Jest on nieco lepszy niż twój stary sprzęt i kosztuje sto dolarów.]]></problem>
+        <question>Czy w tej sytuacji zdecydujesz się na naprawę starego magnetowidu?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Nowa praca</name>
+        <description>Dostałeś propozycję pracy z dwóch różnych firm, i staramy się zdecydować, które przedstawiły Ci swoje warunki.</description>
+        <problem><![CDATA[Firma A zaoferowała Ci pensję w wysokości 100.000 dolarów i czternaście dni urlopu rocznie.
+Firma B zaoferowała Ci pensję w wysokości 50.000 dolarów i szesnaście dni urlopu rocznie.
+Te dwie firmy oraz proponowane przez nie stanowiska są podobne.]]></problem>
+        <question>Czy zdecydujesz się przyjąć ofertę firma B, aby mieć dwa dni urlopu więcej, w ciągu roku?</question>
+    </dilemma>
+        <dilemma type="nonmoral">
+        <name>Przygotowanie jedzenia</name>
+        <description>Przygotowujesz makaron z warzywami, i planujesz kolejność czynności kuchennych, które musisz wykonać. Bardzo się spieszysz. Nie masz teraz zbytniej ochoty na krojenie warzyw.</description>
+        <problem><![CDATA[Jeśli teraz wstawisz wodę to masz 20 min. na pokrojenie warzyw od jej zagotowania.
+Jeśli najpierw potniesz warzywa a dopiero potem wstawisz wodę to będziesz miał 40 min. ]]></problem>
+        <question>Czy zdecydujesz się najpierw rozpocząć krojenie warzyw a później wstawić wodę, w związku z twoją słabą chęcią do krojenia?</question>
+    </dilemma>
+</root>
